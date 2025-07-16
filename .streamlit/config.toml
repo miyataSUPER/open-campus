@@ -1,0 +1,15 @@
+# Streamlit Community Cloud用設定ファイル
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
+[theme]
+primaryColor = "#ff9800"
+backgroundColor = "#fffbe7"
+secondaryBackgroundColor = "#ffe066"
+textColor = "#333333"
+font = "sans serif"
+
+[ui]
+language = "ja" 
